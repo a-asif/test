@@ -16,5 +16,23 @@
     { "id": 5 , "name" : "AUD" },
     { "id": 152 , "name" : "AWG" },
     { "id": 115 , "name" : "AZN" }
-    ]
+    ],
+ "timezones" : [
+    { "id": 1 , "name" : "Select Time Zone" },
+    { "id": 2 , "name" : "EUR" },
+    { "id": 3 , "name" : "GBP" },
+    { "id": 16 , "name" : "HKD" },
+    { "id": 10 , "name" : "JPY" },
+    { "id": 6 , "name" : "CAD" },
+    { "id": 15 , "name" : "AED" },
+    { "id": 78 , "name" : "AFN" },
+    { "id": 83 , "name" : "ALL" },
+    { "id": 113 , "name" : "AMD" },
+    { "id": 143 , "name" : "ANG" },
+    { "id": 76 , "name" : "AOA" },
+    { "id": 42 , "name" : "ARS" },
+    { "id": 5 , "name" : "AUD" },
+    { "id": 152 , "name" : "AWG" },
+    { "id": 115 , "name" : "AZ" }
+  ],
  } 
